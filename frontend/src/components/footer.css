@@ -1,0 +1,27 @@
+
+.footer-bg{
+    background-image: url('./../../public/door.jpg');
+    width: 100px;
+    height : 100px;
+    /* background-size : cover;
+    background-position: center;
+    text-align: center; */
+    margin: auto;
+    display: block;
+  }
+
+  .footer-link{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    /* margin-right: 20px; */
+    
+  }
+  .footer-link a {
+    text-decoration: none;
+    color: white;
+}
+.footer-link a:hover {
+  text-decoration: underline; /* Adds underline on hover */
+  color: lightgray; /* Changes color on hover */
+}
